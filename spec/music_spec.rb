@@ -1,5 +1,4 @@
 require 'spec_helper.rb'
-require 'pry'
 
 describe 'Music Library' do 
 
