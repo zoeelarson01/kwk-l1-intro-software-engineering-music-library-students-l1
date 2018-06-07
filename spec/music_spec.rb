@@ -1,7 +1,7 @@
 
   
 def list_artists(x)
-  library ={:taylor_swift => "Style", :silento => "Watch Me", :selena_gomez => "Good For You", :mark_ronson => "Uptown Funk!", :andy_grammer => "Honey I'm Good", :maroon_five => "Sugar"}
+  library = {:taylor_swift => "Style", :silento => "Watch Me", :selena_gomez => "Good For You", :mark_ronson => "Uptown Funk!", :andy_grammer => "Honey I'm Good", :maroon_five => "Sugar"}
   puts library.each_key
 end
   
