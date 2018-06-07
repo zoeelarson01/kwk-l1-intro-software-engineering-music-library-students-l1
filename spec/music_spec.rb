@@ -5,7 +5,7 @@ def list_artists
   puts library.each_key
 end
   
-  
+  list_artists
   
   
   
